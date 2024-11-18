@@ -1,2 +1,1 @@
-# Thesis (Urban Develoment from drone image)
-Thesis Materials :")
+Urban Develoment from drone image
